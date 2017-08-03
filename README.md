@@ -4,10 +4,10 @@
 
 ## 基本功能
 
-* 在 **UITableViewCell** 处于非编辑状态下时长按，可以拖动该Cell在 **UITableView** 中进行移动并选择其他的Cell作为目标。
+* 在 **UITableViewCell** 处于非编辑状态下时长按，可以拖动该Cell在 **UITableView** 中进行移动并选择其他的Cell作为目标。
 * 可自定拖动和被选择的Cell的选择样式颜色。
-* 拖动Cell时支持上下滚动 **UITableView**。
-* 提供代理协议以获取拖动过程中发生的状态。
+* 拖动Cell时支持上下滚动 **UITableView**。
+* 提供代理协议以获取拖动过程中发生的状态。
 
 ## 开放API
 
