@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MLDraggingCellTableViewCell layoutSubviews]:MLDraggingCellTableViewCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.frame.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MLDragChooseTableViewCellComponent cellDragingGestureHandle:]:MLDragChooseTableViewCellComponent.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[draggingGesture locationInView:_weakTableView].y - (_fakeView.frame.size.height/2)">
+            </PersistentString>
+            <PersistentString
+               value = "_fakeView.position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MLDragChooseTableViewCellComponent chooseCellStyleHandle:]:MLDragChooseTableViewCellComponent.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "highlighted">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MLDragChooseTableViewCellComponent DragingGestureStyleHandle:withGestureRecognizer:]:MLDragChooseTableViewCellComponent.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_fakeView.position">
+            </PersistentString>
+            <PersistentString
+               value = "_fakeView.frame">
+            </PersistentString>
+            <PersistentString
+               value = "_weakTableView.subviews">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
