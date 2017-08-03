@@ -11,7 +11,7 @@
 
 ## 开放API
 
-* **MLDragChooseTableViewComponent**
+* **MLDragChooseTableViewComponent.h**
 ```objc
 @interface MLDragChooseTableViewComponent : NSObject
 
@@ -28,7 +28,7 @@
 
 
 
-* **MLDragChooseTableViewComponentDelegate**
+* **MLDragChooseTableViewComponentDelegate.h**
 ```objc
 @protocol MLDragChooseTableViewComponentDelegate <NSObject>
 
